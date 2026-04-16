@@ -2,7 +2,7 @@
 - 👀 I’m interested in juggling, AI, founding, 
 - 🌱 I’m currently learning how people react on AI 
 - 💞️ I’m looking to collaborate on working in web and medicine sector together
-- 📫 How to reach me www.webprog.de
+- 📫 How to reach me www.marco-klawonn.de
 
 
 <!---
